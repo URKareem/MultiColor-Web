@@ -63,6 +63,11 @@ li:hover{
     background-color: var(--focolor);
 }
 
+a{
+    text-decoration: none;
+    color: black;
+}
+
 .web{
     display: flex;
     justify-content: space-around;
