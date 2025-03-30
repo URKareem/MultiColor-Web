@@ -3,7 +3,7 @@
 :root{
     --fcolor: lightblue;
     --scolor: lightcoral;
-    --tcolor: lightcyan;
+    --tecolor: lightcyan;
     --focolor: lightgoldenrodyellow;
     --ficolor: lightgray;
     --sicolor: lightgreen;
@@ -86,7 +86,7 @@ h2{
 }
 
 .py{
-    background-color: var(--tcolor);
+    background-color: var(--tecolor);
 }
 
 .js{
